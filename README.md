@@ -1,4 +1,4 @@
-# Imputación de Nulos con Pandas
+# Gestión de Nulos con Pandas
 
 Este repositorio forma parte de mi práctica en análisis de datos con Python.  
 Estoy explorando técnicas de **imputación de valores nulos** utilizando la biblioteca **pandas**, aplicando distintos métodos como la imputación con la media, mediana, moda y otros enfoques personalizados.
